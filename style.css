@@ -1,0 +1,35 @@
+body{
+	margin:0;
+}
+.first-content{
+	background-image: url('HDWall293.jpg');
+	height:480px;
+	text-align: center;
+}
+.small-fish{
+	height:150px;
+	border-radius: 50%;
+	border:5px solid yellow;
+	margin-top:50px;
+
+}
+.second-img{
+	margin:100px;
+	height:400px;
+	float:left;
+
+}
+.second-content{
+	margin:100px;
+	height:400px;
+	line-height:2.0;
+
+}
+.third{
+	background-color: orange;
+	height: 50px;
+	text-align: center;
+	margin: 20px;
+	
+
+}
